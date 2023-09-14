@@ -5,3 +5,4 @@ Upload the project to your website:
 2. Rename file htaccess to .htaccess
 
 Update
+Update2
